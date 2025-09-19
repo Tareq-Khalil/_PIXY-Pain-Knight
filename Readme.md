@@ -21,10 +21,6 @@ A replication of the final (and the hardest) level in Hollow Knight, using Godot
 
 ![photo](photos/ph9.jpg)
 
-![photo](photos/ph10.jpg)
-
 ![photo](photos/ph11.jpg)
 
 ![photo](photos/ph12.jpg)
-
-![photo](photos/ph13.jpg)
